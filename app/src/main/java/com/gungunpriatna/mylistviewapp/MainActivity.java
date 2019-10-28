@@ -7,7 +7,7 @@ import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String[] dataName = {"Cut Nyak Diew" , "Ki Hajar Dewantara", "Moh Yasin", "Pattimura"
+    private String[] dataName = {"Cut Nyak Dien" , "Ki Hajar Dewantara", "Moh Yasin", "Pattimura"
             , "R A Kartini", "Sukarno"};
 
     @Override
